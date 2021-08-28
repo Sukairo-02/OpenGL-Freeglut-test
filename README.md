@@ -2,7 +2,7 @@
 My old attempt at working with OpenGL in C\C++ using Freeglut library, university assignment.  
 
 # How to use
-- Go to Debug folder and run .exe  
+- Go to Debug folder and run `.exe`  
 - Build yourself using provided code  
 
 # Controls
