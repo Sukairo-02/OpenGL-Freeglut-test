@@ -1,0 +1,39 @@
+﻿  OpenGL3DLab2.cpp
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(61): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(61): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(62): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(62): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(63): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(63): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(64): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(64): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(65): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(65): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(66): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(66): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(69): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(70): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(77): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(78): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(79): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(80): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(81): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(82): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(84): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(85): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(86): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(87): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(88): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(89): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(91): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(92): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(93): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(94): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(95): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(96): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(359): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(360): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(382): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(383): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\user\desktop\4sharaga\univer\gl3d_lab\opengl3dlab2\opengl3dlab2\opengl3dlab2.cpp(548): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OpenGL3DLab2.vcxproj -> C:\Users\User\Desktop\4Sharaga\Univer\GL3D_Lab\OpenGL3DLab2\Debug\OpenGL3DLab2.exe
